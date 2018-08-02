@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2018-08-02 15:54">
+<yml_catalog date="2018-08-02 15:59">
   <shop>
 		<name>Яркий фотомаркет</name>
 		<company>ООО "Яркий Фото Маркет"</company>
@@ -62,6 +62,15 @@
 				<description/>
 				<FormatMatrix>Full frame</FormatMatrix>
 			</offer>
+			<offer id="TEST25777" available="true">
+				<name>Объектив CANON (30%)</name>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST2346</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
 			<offer id="TEST11102" available="true">
 				<name>Зеркальный фотоаппарат CANON EOS 6D Kit EF 24-105/3,5-5,6 IS STM (11102_3) </name>
 				<price>100000</price>
@@ -84,6 +93,24 @@
 				<description/>
 				<FormatMatrix>Full frame</FormatMatrix>
 			</offer>
+			<offer id="TEST970" available="true">
+				<name>Объектив NIKON 2</name>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST345</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="TEST14212" available="true">
+				<name>Объектив NIKON 3</name>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST345</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
 			<offer id="TEST284" available="true">
 				<name>Зеркальный фотоаппарат NIKON Df kit 50mm f/1.8 Special Edition silver (284_3) </name>
 				<price>100000</price>
@@ -96,6 +123,22 @@
 				<FormatMatrix>Full frame</FormatMatrix>
 				<TypeCam>Зеркальная</TypeCam>
 				<Vendor>Nicon</Vendor>
+			</offer>
+			<offer id="TEST145030" available="true">
+				<name>Фото на кружках</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST145031</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="255808" available="true">
+				<name>Печати и штампы по шаблону ДЛЯ ТЕСТОВ</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST145031</categoryId>
+				<store>true</store>
+				<description/>
 			</offer>
 		</offers>
 	</shop>

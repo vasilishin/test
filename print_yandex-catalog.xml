@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2018-08-02 15:17">
+  <shop>
+		<name>Яркий фотомаркет</name>
+		<company>ООО "Яркий Фото Маркет"</company>
+		<url>https://photo.yarkiy.ru</url>
+		<platform>Pixlpark</platform>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="TEST2346" parentId="TEST890">Объективы CANON</category>
+			<category id="TEST678" parentId="TEST4567">Зеркальные камеры Canon</category>
+			<category id="TEST345" parentId="TEST890">Объективы NICON</category>
+			<category id="TEST3457" parentId="TEST4567">Зеркальные камеры Nicon</category>
+			<category id="TEST145031" Group="Сувениры">Фото на футболках</category>
+			<category id="TEST890">ОБЪЕКТИВЫ</category>
+			<category id="TEST4567" parentId="TEST23542345">ЗЕРКАЛЬНЫЕ</category>
+			<category id="TEST23542345">ФОТО И ВИДЕО КАМЕРЫ</category>
+		</categories>
+		<offers>
+			<offer id="TEST2713845" available="true">
+				<name>Футболка для тестирования 2</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">750</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST145031</categoryId>
+				<store>false</store>
+				<description>Классический прямой силуэт, большая свобода облегания.</description>
+				<param name="Размер">S</param>
+				<param name="Упаковка для футболки">Без упаковки</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Пол">Мужская</param>
+				<param name="Состав футболки">Хлопок</param>
+				<param name="Размер изображения">10х15</param>
+				<param name="Тип печати">Односторонняя</param>
+				<param name="Цвет футболки">Синяя</param>
+			</offer>
+			<offer id="TEST2713844" available="true">
+				<name>Футболка для тестирования 1</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST145031</categoryId>
+				<store>false</store>
+				<description>Классический прямой силуэт, большая свобода облегания.</description>
+				<param name="Размер">S</param>
+				<param name="Упаковка для футболки">Без упаковки</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Пол">Мужская</param>
+				<param name="Состав футболки">Хлопок</param>
+				<param name="Размер изображения">10х15</param>
+				<param name="Тип печати">Односторонняя</param>
+				<param name="Цвет футболки">Синяя</param>
+			</offer>
+			<offer id="25328" available="true">
+				<name>Объектив (5%)</name>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST2346</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="TEST11102" available="true">
+				<name>Зеркальный фотоаппарат CANON EOS 6D Kit EF 24-105/3,5-5,6 IS STM (11102_3) </name>
+				<price>100000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST678</categoryId>
+				<store>true</store>
+				<description/>
+				<Vendor>Canon</Vendor>
+				<Brand>Canon</Brand>
+				<TypeCam>Зеркальная</TypeCam>
+				<TypeVid>Оптический</TypeVid>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="TEST955" available="true">
+				<name>Объектив NIKON 1</name>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST345</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="TEST284" available="true">
+				<name>Зеркальный фотоаппарат NIKON Df kit 50mm f/1.8 Special Edition silver (284_3) </name>
+				<price>100000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>TEST3457</categoryId>
+				<store>true</store>
+				<description/>
+				<Brand>Nicon</Brand>
+				<TypeVid>Электронный</TypeVid>
+				<FormatMatrix>Full frame</FormatMatrix>
+				<TypeCam>Зеркальная</TypeCam>
+				<Vendor>Nicon</Vendor>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2018-08-21 18:58">
+  <shop>
+		<name>Яркий фотомаркет</name>
+		<company>ООО "Яркий Фото Маркет"</company>
+		<url>https://photo.yarkiy.ru</url>
+		<platform>Pixlpark</platform>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="ФР-000006">Подарочные сертификаты</category>
+			<category id="ФР-00000110" Group="Сувениры">Фото на футболках</category>
+			<category id="00-000001">БезКатегории</category>
+			<category id="ФР-000004">Доставка</category>
+			<category id="000000083" Group="Доставка">Посылка</category>
+			<category id="ФР-000001">Пылесосы</category>
+			<category id="ФР-000002">Аксессуары для пылесосов</category>
+			<category id="ФР-000003">Профессиональные пылесосы</category>
+			<category id="144994" Group="Фотопечать">Печать фотографий</category>
+			<category id="ФР-000013" parentId="ФР-000012">Объективы CANON</category>
+			<category id="ФР-000011" parentId="ФР-000010">Зеркальные камеры Nicon</category>
+			<category id="ФР-000005" parentId="ФР-000010">Зеркальные камеры Canon</category>
+			<category id="ФР-000014" parentId="ФР-000012">Объективы NICON</category>
+			<category id="ФР-000008" parentId="ФР-000007">Сувениры</category>
+			<category id="ФР-000012">ОБЪЕКТИВЫ</category>
+			<category id="ФР-000010" parentId="ФР-000009">ЗЕРКАЛЬНЫЕ</category>
+			<category id="ФР-000009">ФОТО И ВИДЕО КАМЕРЫ</category>
+			<category id="ФР-000007">Новые услуги</category>
+		</categories>
+		<offers>
+			<offer id="2621533/ГЛЯНЦЕВАЯ/2 ЧАСА/10Х13" available="true">
+				<name>Глянцевая, 2 часа, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/ГЛЯНЦЕВАЯ/2 ЧАСА/10Х15" available="true">
+				<name>Глянцевая, 2 часа, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/ГЛЯНЦЕВАЯ/2 ЧАСА/11Х15" available="true">
+				<name>Глянцевая, 2 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/ГЛЯНЦЕВАЯ/2 ЧАСА/13Х18" available="true">
+				<name>Глянцевая, 2 часа, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">25</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/ГЛЯНЦЕВАЯ/2 ЧАСА/15Х20" available="true">
+				<name>Глянцевая, 2 часа, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/ГЛЯНЦЕВАЯ/2 ЧАСА/15Х21" available="true">
+				<name>Глянцевая, 2 часа, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/ГЛЯНЦЕВАЯ/2 ЧАСА/15Х23" available="true">
+				<name>Глянцевая, 2 часа, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/ГЛЯНЦЕВАЯ/2 ЧАСА/17Х25" available="true">
+				<name>Глянцевая, 2 часа, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">44</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/ГЛЯНЦЕВАЯ/2 ЧАСА/20Х20" available="true">
+				<name>Глянцевая, 2 часа, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">56</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/ГЛЯНЦЕВАЯ/2 ЧАСА/20Х30" available="true">
+				<name>Глянцевая, 2 часа, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">88</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/ГЛЯНЦЕВАЯ/2 ЧАСА/25Х38" available="true">
+				<name>Глянцевая, 2 часа, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">113</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/ГЛЯНЦЕВАЯ/2 ЧАСА/30Х30" available="true">
+				<name>Глянцевая, 2 часа, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">125</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/ГЛЯНЦЕВАЯ/2 ЧАСА/30Х40" available="true">
+				<name>Глянцевая, 2 часа, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">150</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/ГЛЯНЦЕВАЯ/2 ЧАСА/30Х45" available="true">
+				<name>Глянцевая, 2 часа, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">169</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/ГЛЯНЦЕВАЯ/2 ЧАСА/30Х90" available="true">
+				<name>Глянцевая, 2 часа, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">338</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/ГЛЯНЦЕВАЯ/24 ЧАСА/10Х13" available="true">
+				<name>Глянцевая, 24 часа, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/ГЛЯНЦЕВАЯ/24 ЧАСА/10Х15" available="true">
+				<name>Глянцевая, 24 часа, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/ГЛЯНЦЕВАЯ/24 ЧАСА/11Х15" available="true">
+				<name>Глянцевая, 24 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="1630745/ГЛЯНЦЕВАЯ/24 ЧАСА/11Х15" available="true">
+				<name>Глянцевая, 24 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/ГЛЯНЦЕВАЯ/24 ЧАСА/13Х18" available="true">
+				<name>Глянцевая, 24 часа, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/ГЛЯНЦЕВАЯ/24 ЧАСА/15Х20" available="true">
+				<name>Глянцевая, 24 часа, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/ГЛЯНЦЕВАЯ/24 ЧАСА/15Х21" available="true">
+				<name>Глянцевая, 24 часа, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/ГЛЯНЦЕВАЯ/24 ЧАСА/15Х23" available="true">
+				<name>Глянцевая, 24 часа, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/ГЛЯНЦЕВАЯ/24 ЧАСА/17Х25" available="true">
+				<name>Глянцевая, 24 часа, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">35</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/ГЛЯНЦЕВАЯ/24 ЧАСА/20Х20" available="true">
+				<name>Глянцевая, 24 часа, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">45</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/ГЛЯНЦЕВАЯ/24 ЧАСА/20Х30" available="true">
+				<name>Глянцевая, 24 часа, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/ГЛЯНЦЕВАЯ/24 ЧАСА/25Х38" available="true">
+				<name>Глянцевая, 24 часа, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/ГЛЯНЦЕВАЯ/24 ЧАСА/30Х30" available="true">
+				<name>Глянцевая, 24 часа, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/ГЛЯНЦЕВАЯ/24 ЧАСА/30Х40" available="true">
+				<name>Глянцевая, 24 часа, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">120</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/ГЛЯНЦЕВАЯ/24 ЧАСА/30Х45" available="true">
+				<name>Глянцевая, 24 часа, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">135</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/ГЛЯНЦЕВАЯ/24 ЧАСА/30Х90" available="true">
+				<name>Глянцевая, 24 часа, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/ГЛЯНЦЕВАЯ/3 ДНЯ/10Х13" available="true">
+				<name>Глянцевая, 3 дня, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/ГЛЯНЦЕВАЯ/3 ДНЯ/10Х15" available="true">
+				<name>Глянцевая, 3 дня, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/ГЛЯНЦЕВАЯ/3 ДНЯ/11Х15" available="true">
+				<name>Глянцевая, 3 дня, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="1630745/ГЛЯНЦЕВАЯ/3 ДНЯ/11Х15" available="true">
+				<name>Глянцевая, 3 дня, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/ГЛЯНЦЕВАЯ/3 ДНЯ/13Х18" available="true">
+				<name>Глянцевая, 3 дня, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/ГЛЯНЦЕВАЯ/3 ДНЯ/15Х20" available="true">
+				<name>Глянцевая, 3 дня, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/ГЛЯНЦЕВАЯ/3 ДНЯ/15Х21" available="true">
+				<name>Глянцевая, 3 дня, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/ГЛЯНЦЕВАЯ/3 ДНЯ/15Х23" available="true">
+				<name>Глянцевая, 3 дня, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/ГЛЯНЦЕВАЯ/3 ДНЯ/17Х25" available="true">
+				<name>Глянцевая, 3 дня, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">35</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/ГЛЯНЦЕВАЯ/3 ДНЯ/20Х20" available="true">
+				<name>Глянцевая, 3 дня, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">45</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/ГЛЯНЦЕВАЯ/3 ДНЯ/20Х30" available="true">
+				<name>Глянцевая, 3 дня, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/ГЛЯНЦЕВАЯ/3 ДНЯ/25Х38" available="true">
+				<name>Глянцевая, 3 дня, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/ГЛЯНЦЕВАЯ/3 ДНЯ/30Х30" available="true">
+				<name>Глянцевая, 3 дня, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/ГЛЯНЦЕВАЯ/3 ДНЯ/30Х40" available="true">
+				<name>Глянцевая, 3 дня, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">120</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/ГЛЯНЦЕВАЯ/3 ДНЯ/30Х45" available="true">
+				<name>Глянцевая, 3 дня, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">135</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/ГЛЯНЦЕВАЯ/3 ДНЯ/30Х90" available="true">
+				<name>Глянцевая, 3 дня, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/ГЛЯНЦЕВАЯ/30 МИНУТ/10Х13" available="true">
+				<name>Глянцевая, 30 минут, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/ГЛЯНЦЕВАЯ/30 МИНУТ/10Х15" available="true">
+				<name>Глянцевая, 30 минут, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/ГЛЯНЦЕВАЯ/30 МИНУТ/11Х15" available="true">
+				<name>Глянцевая, 30 минут, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/ГЛЯНЦЕВАЯ/30 МИНУТ/13Х18" available="true">
+				<name>Глянцевая, 30 минут, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">40</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/ГЛЯНЦЕВАЯ/30 МИНУТ/15Х20" available="true">
+				<name>Глянцевая, 30 минут, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/ГЛЯНЦЕВАЯ/30 МИНУТ/15Х21" available="true">
+				<name>Глянцевая, 30 минут, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/ГЛЯНЦЕВАЯ/30 МИНУТ/15Х23" available="true">
+				<name>Глянцевая, 30 минут, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/ГЛЯНЦЕВАЯ/30 МИНУТ/17Х25" available="true">
+				<name>Глянцевая, 30 минут, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/ГЛЯНЦЕВАЯ/30 МИНУТ/20Х20" available="true">
+				<name>Глянцевая, 30 минут, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/ГЛЯНЦЕВАЯ/30 МИНУТ/20Х30" available="true">
+				<name>Глянцевая, 30 минут, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">140</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/ГЛЯНЦЕВАЯ/30 МИНУТ/25Х38" available="true">
+				<name>Глянцевая, 30 минут, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">180</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/ГЛЯНЦЕВАЯ/30 МИНУТ/30Х30" available="true">
+				<name>Глянцевая, 30 минут, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/ГЛЯНЦЕВАЯ/30 МИНУТ/30Х40" available="true">
+				<name>Глянцевая, 30 минут, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">240</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/ГЛЯНЦЕВАЯ/30 МИНУТ/30Х45" available="true">
+				<name>Глянцевая, 30 минут, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/ГЛЯНЦЕВАЯ/30 МИНУТ/30Х90" available="true">
+				<name>Глянцевая, 30 минут, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">540</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Глянцевая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/МАТОВАЯ/2 ЧАСА/10Х13" available="true">
+				<name>Матовая, 2 часа, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/МАТОВАЯ/2 ЧАСА/10Х15" available="true">
+				<name>Матовая, 2 часа, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/МАТОВАЯ/2 ЧАСА/11Х15" available="true">
+				<name>Матовая, 2 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/МАТОВАЯ/2 ЧАСА/13Х18" available="true">
+				<name>Матовая, 2 часа, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">25</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/МАТОВАЯ/2 ЧАСА/15Х20" available="true">
+				<name>Матовая, 2 часа, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/МАТОВАЯ/2 ЧАСА/15Х21" available="true">
+				<name>Матовая, 2 часа, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/МАТОВАЯ/2 ЧАСА/15Х23" available="true">
+				<name>Матовая, 2 часа, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">38</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/МАТОВАЯ/2 ЧАСА/17Х25" available="true">
+				<name>Матовая, 2 часа, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">44</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/МАТОВАЯ/2 ЧАСА/20Х20" available="true">
+				<name>Матовая, 2 часа, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">56</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/МАТОВАЯ/2 ЧАСА/20Х30" available="true">
+				<name>Матовая, 2 часа, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">88</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/МАТОВАЯ/2 ЧАСА/25Х38" available="true">
+				<name>Матовая, 2 часа, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">113</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/МАТОВАЯ/2 ЧАСА/30Х30" available="true">
+				<name>Матовая, 2 часа, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">125</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/МАТОВАЯ/2 ЧАСА/30Х40" available="true">
+				<name>Матовая, 2 часа, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">150</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/МАТОВАЯ/2 ЧАСА/30Х45" available="true">
+				<name>Матовая, 2 часа, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">169</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/МАТОВАЯ/2 ЧАСА/30Х90" available="true">
+				<name>Матовая, 2 часа, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">338</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/МАТОВАЯ/24 ЧАСА/10Х13" available="true">
+				<name>Матовая, 24 часа, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/МАТОВАЯ/24 ЧАСА/10Х15" available="true">
+				<name>Матовая, 24 часа, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/МАТОВАЯ/24 ЧАСА/11Х15" available="true">
+				<name>Матовая, 24 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="1630745/МАТОВАЯ/24 ЧАСА/11Х15" available="true">
+				<name>Матовая, 24 часа, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/МАТОВАЯ/24 ЧАСА/13Х18" available="true">
+				<name>Матовая, 24 часа, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/МАТОВАЯ/24 ЧАСА/15Х20" available="true">
+				<name>Матовая, 24 часа, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/МАТОВАЯ/24 ЧАСА/15Х21" available="true">
+				<name>Матовая, 24 часа, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/МАТОВАЯ/24 ЧАСА/15Х23" available="true">
+				<name>Матовая, 24 часа, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/МАТОВАЯ/24 ЧАСА/17Х25" available="true">
+				<name>Матовая, 24 часа, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">35</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/МАТОВАЯ/24 ЧАСА/20Х20" available="true">
+				<name>Матовая, 24 часа, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">45</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/МАТОВАЯ/24 ЧАСА/20Х30" available="true">
+				<name>Матовая, 24 часа, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/МАТОВАЯ/24 ЧАСА/25Х38" available="true">
+				<name>Матовая, 24 часа, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/МАТОВАЯ/24 ЧАСА/30Х30" available="true">
+				<name>Матовая, 24 часа, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/МАТОВАЯ/24 ЧАСА/30Х40" available="true">
+				<name>Матовая, 24 часа, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">120</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/МАТОВАЯ/24 ЧАСА/30Х45" available="true">
+				<name>Матовая, 24 часа, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">135</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/МАТОВАЯ/24 ЧАСА/30Х90" available="true">
+				<name>Матовая, 24 часа, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">24 часа</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/МАТОВАЯ/3 ДНЯ/10Х13" available="true">
+				<name>Матовая, 3 дня, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/МАТОВАЯ/3 ДНЯ/10Х15" available="true">
+				<name>Матовая, 3 дня, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/МАТОВАЯ/3 ДНЯ/11Х15" available="true">
+				<name>Матовая, 3 дня, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">15</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="1630745/МАТОВАЯ/3 ДНЯ/11Х15" available="true">
+				<name>Матовая, 3 дня, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/МАТОВАЯ/3 ДНЯ/13Х18" available="true">
+				<name>Матовая, 3 дня, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">20</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/МАТОВАЯ/3 ДНЯ/15Х20" available="true">
+				<name>Матовая, 3 дня, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/МАТОВАЯ/3 ДНЯ/15Х21" available="true">
+				<name>Матовая, 3 дня, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/МАТОВАЯ/3 ДНЯ/15Х23" available="true">
+				<name>Матовая, 3 дня, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/МАТОВАЯ/3 ДНЯ/17Х25" available="true">
+				<name>Матовая, 3 дня, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">35</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/МАТОВАЯ/3 ДНЯ/20Х20" available="true">
+				<name>Матовая, 3 дня, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">45</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/МАТОВАЯ/3 ДНЯ/20Х30" available="true">
+				<name>Матовая, 3 дня, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/МАТОВАЯ/3 ДНЯ/25Х38" available="true">
+				<name>Матовая, 3 дня, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/МАТОВАЯ/3 ДНЯ/30Х30" available="true">
+				<name>Матовая, 3 дня, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/МАТОВАЯ/3 ДНЯ/30Х40" available="true">
+				<name>Матовая, 3 дня, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">120</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/МАТОВАЯ/3 ДНЯ/30Х45" available="true">
+				<name>Матовая, 3 дня, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">135</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/МАТОВАЯ/3 ДНЯ/30Х90" available="true">
+				<name>Матовая, 3 дня, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="2621533/МАТОВАЯ/30 МИНУТ/10Х13" available="true">
+				<name>Матовая, 30 минут, 10х13</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">10х13</param>
+			</offer>
+			<offer id="866812/МАТОВАЯ/30 МИНУТ/10Х15" available="true">
+				<name>Матовая, 30 минут, 10х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">10х15</param>
+			</offer>
+			<offer id="866813/МАТОВАЯ/30 МИНУТ/11Х15" available="true">
+				<name>Матовая, 30 минут, 11х15</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">30</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">11х15</param>
+			</offer>
+			<offer id="866814/МАТОВАЯ/30 МИНУТ/13Х18" available="true">
+				<name>Матовая, 30 минут, 13х18</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">40</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">13х18</param>
+			</offer>
+			<offer id="866815/МАТОВАЯ/30 МИНУТ/15Х20" available="true">
+				<name>Матовая, 30 минут, 15х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х20</param>
+			</offer>
+			<offer id="866816/МАТОВАЯ/30 МИНУТ/15Х21" available="true">
+				<name>Матовая, 30 минут, 15х21</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х21</param>
+			</offer>
+			<offer id="866817/МАТОВАЯ/30 МИНУТ/15Х23" available="true">
+				<name>Матовая, 30 минут, 15х23</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">15х23</param>
+			</offer>
+			<offer id="2154718/МАТОВАЯ/30 МИНУТ/17Х25" available="true">
+				<name>Матовая, 30 минут, 17х25</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">70</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">17х25</param>
+			</offer>
+			<offer id="2740879/МАТОВАЯ/30 МИНУТ/20Х20" available="true">
+				<name>Матовая, 30 минут, 20х20</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">90</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">20х20</param>
+			</offer>
+			<offer id="866818/МАТОВАЯ/30 МИНУТ/20Х30" available="true">
+				<name>Матовая, 30 минут, 20х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">140</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">20х30</param>
+			</offer>
+			<offer id="948070/МАТОВАЯ/30 МИНУТ/25Х38" available="true">
+				<name>Матовая, 30 минут, 25х38</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">180</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">25х38</param>
+			</offer>
+			<offer id="2740880/МАТОВАЯ/30 МИНУТ/30Х30" available="true">
+				<name>Матовая, 30 минут, 30х30</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х30</param>
+			</offer>
+			<offer id="866819/МАТОВАЯ/30 МИНУТ/30Х40" available="true">
+				<name>Матовая, 30 минут, 30х40</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">240</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х40</param>
+			</offer>
+			<offer id="866820/МАТОВАЯ/30 МИНУТ/30Х45" available="true">
+				<name>Матовая, 30 минут, 30х45</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">270</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х45</param>
+			</offer>
+			<offer id="866821/МАТОВАЯ/30 МИНУТ/30Х90" available="true">
+				<name>Матовая, 30 минут, 30х90</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true">540</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>144994</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Тип бумаги">Матовая</param>
+				<param name="Срок исполнения заказа">30 минут</param>
+				<param name="Формат">30х90</param>
+			</offer>
+			<offer id="000000020" available="true">
+				<name>S, 2 часа, Мужская, Хлопок, 10х15, Односторонняя, Синяя</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-00000110</categoryId>
+				<store>false</store>
+				<description>Классический прямой силуэт, большая свобода облегания.</description>
+				<param name="Размер">S</param>
+				<param name="Срок исполнения заказа">2 часа</param>
+				<param name="Пол">Мужская</param>
+				<param name="Состав футболки">Хлопок</param>
+				<param name="Размер изображения">10х15</param>
+				<param name="Тип печати">Односторонняя</param>
+				<param name="Цвет футболки">Синяя</param>
+				<param name="Упаковка для футболки">Без упаковки</param>
+			</offer>
+			<offer id="000000001" available="true">
+				<name>S, 3 дня, Мужская, Хлопок, 10х15, Односторонняя, Синяя</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-00000110</categoryId>
+				<store>false</store>
+				<description>Классический прямой силуэт, большая свобода облегания.</description>
+				<param name="Размер">S</param>
+				<param name="Срок исполнения заказа">3 дня</param>
+				<param name="Пол">Мужская</param>
+				<param name="Состав футболки">Хлопок</param>
+				<param name="Размер изображения">10х15</param>
+				<param name="Тип печати">Односторонняя</param>
+				<param name="Цвет футболки">Синяя</param>
+				<param name="Упаковка для футболки">Без упаковки</param>
+			</offer>
+			<offer id="000000004" available="true">
+				<name>Boxberry, 1234567890</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>000000083</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Оператор доставки">Boxberry XXXXX(5)</param>
+				<param name="Номер посылки">1234567890</param>
+			</offer>
+			<offer id="000000005" available="true">
+				<name>OZON, 77777</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>000000083</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Оператор доставки">OZON XXXXXXXXXX(8)</param>
+				<param name="Номер посылки">77777</param>
+			</offer>
+			<offer id="000000006" available="true">
+				<name>Оператор: Boxberry;№: 55555</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>000000083</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Оператор доставки">Boxberry XXXXX(5)</param>
+				<param name="Номер посылки">55555</param>
+			</offer>
+			<offer id="000000008" available="true">
+				<name>Оператор: DHL XXX-XXX-XXX-XXX;№: 153-777-754-784</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>000000083</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Оператор доставки">DHL XXX-XXX-XXX-XXX</param>
+				<param name="Номер посылки">153-777-754-784</param>
+			</offer>
+			<offer id="000000007" available="true">
+				<name>Оператор: DPD;№: 5г54ро67о6</name>
+				<url>https://photo.yarkiy.ru/printing/shirts/testfortest/editor</url>
+				<price from="true"/>
+				<currencyId>RUB</currencyId>
+				<categoryId>000000083</categoryId>
+				<store>false</store>
+				<description/>
+				<param name="Оператор доставки">DPD XXXX-XXXX</param>
+				<param name="Номер посылки">5г54ро67о6</param>
+			</offer>
+			<offer id="ФР-00000109" available="true">
+				<name>Подарочный сертификат 1000 р</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000006</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000117" available="true">
+				<name>UCS</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000006</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000119" available="true">
+				<name>Товар не найден</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>00-000001</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="УТ-00007894" available="true">
+				<name>Leica X-U (Typ 113) влагозащищённая (15м)</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>00-000001</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000097" available="true">
+				<name>Доставка курьерской службой DHL</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000098" available="true">
+				<name>Доставка Почтой РОСИИ</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000099" available="true">
+				<name>Доставка транспортной компанией</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000100" available="true">
+				<name>Самовывоз из точки выдачи</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000063" available="true">
+				<name>Доставка в пределах МКАД</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000064" available="true">
+				<name>Доставка за МКАД</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000004</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000001" available="true">
+				<name>MIE Acqua</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка влажная  Потребляемая мощность 1200 Вт  Мощность всасывания 300 Вт  Пылесборник аквафильтр, емкостью 1.50 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000048" available="true">
+				<name>LG V-C9551WN</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1500 Вт  Мощность всасывания 310 Вт  Пылесборник циклонный фильтр, емкостью 6 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000042" available="true">
+				<name>LG V-K69461N</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1600 Вт  Мощность всасывания 350 Вт  Пылесборник циклонный фильтр, емкостью 1.20 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000044" available="true">
+				<name>LG V-K69462N</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1600 Вт  Мощность всасывания 350 Вт  Пылесборник циклонный фильтр, емкостью 1.20 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000041" available="true">
+				<name>LG V-K70505N</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Мощность всасывания 380 Вт  Пылесборник циклонный фильтр, емкостью 1.20 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000040" available="true">
+				<name>LG V-K70601NU</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Мощность всасывания 380 Вт  Пылесборник циклонный фильтр, емкостью 1.20 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000043" available="true">
+				<name>LG V-K89483RU</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Мощность всасывания 380 Вт  Пылесборник циклонный фильтр, емкостью 1.20 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000002" available="true">
+				<name>LG V-K99263NA</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1600 Вт  Мощность всасывания 300 Вт  Пылесборник аквафильтр, емкостью 3 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000047" available="true">
+				<name>LG VR6270LVM</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Таймер есть  Режимы движения зигзагом, общее число режимов: 4  Режимы уборки местная уборка  Время работы от аккумулятора 100 мин  Датчики оптические  Уборка сухая  Мощность всасывания 13 Вт  Пылесборник циклонный фильтр, емкостью 0.60 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000046" available="true">
+				<name>LG VR63406LV</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Таймер есть  Режимы движения зигзагом, общее число режимов: 4  Режимы уборки местная уборка  Время работы от аккумулятора 100 мин  Датчики оптические  Уборка сухая  Мощность всасывания 13 Вт  Пылесборник циклонный фильтр, емкостью 0.60 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000045" available="true">
+				<name>LG VRF4041LS</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Программирование по дням недели есть  Таймер есть  Режимы движения зигзагом, общее число режимов: 4  Режимы уборки местная уборка, быстрая уборка  Время работы от аккумулятора 100 мин  Датчики ультразвуковые  Уборка сухая  Мощность всасывания 18 Вт  Пылесборник циклонный фильтр, емкостью 0.60 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000056" available="true">
+				<name>Miele SDCB0 HEPA</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Пылесборник мешок, емкостью 3.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000039" available="true">
+				<name>LG VS7303SCW</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип вертикальный  Время работы от аккумулятора 70 мин  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.35 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000030" available="true">
+				<name>Karcher DS 5.800</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 900 Вт  Пылесборник аквафильтр, емкостью 1.70 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000032" available="true">
+				<name>Karcher DS 6.000</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 900 Вт  Пылесборник аквафильтр, емкостью 1.70 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000033" available="true">
+				<name>Karcher MV 3 P</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1400 Вт  Пылесборник мешок/циклонный фильтр, емкостью 17 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000029" available="true">
+				<name>Karcher MV 3 Premium</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1400 Вт  Пылесборник мешок/циклонный фильтр, емкостью 17 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000031" available="true">
+				<name>Karcher MV 4 Premium</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1600 Вт  Пылесборник мешок/циклонный фильтр, емкостью 20 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000034" available="true">
+				<name>Karcher MV 6 P Premium</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1300 Вт  Пылесборник мешок/циклонный фильтр, емкостью 30 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000036" available="true">
+				<name>Karcher RC 3000</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Расчет времени уборки есть  Ограничение времени уборки есть  Режимы движения общее число режимов: 4  Режимы уборки местная уборка (общее число режимов: 4)  Время работы от аккумулятора 60 мин  Уборка сухая  Потребляемая мощность 600 Вт  Пылесборник циклонный фильтр, емкостью 0.20 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000038" available="true">
+				<name>Karcher RC 4000</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Режимы уборки (общее число режимов: 4)  Время работы от аккумулятора 60 мин  Датчики оптические  Уборка сухая  Потребляемая мощность 600 Вт  Пылесборник циклонный фильтр, емкостью 0.20 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000037" available="true">
+				<name>Karcher SE 4002</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1400 Вт  Пылесборник мешок  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000035" available="true">
+				<name>Karcher SE 5.100</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1400 Вт  Пылесборник мешок  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000017" available="true">
+				<name>Dyson DC43H Car</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип ручной  Время работы от аккумулятора 20 мин  Уборка сухая  Мощность всасывания 65 Вт  Пылесборник циклонный фильтр, емкостью 0.35 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000021" available="true">
+				<name>Dyson DC43H Mattress</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип ручной  Время работы от аккумулятора 20 мин  Уборка сухая  Мощность всасывания 65 Вт  Пылесборник циклонный фильтр, емкостью 0.35 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000020" available="true">
+				<name>Dyson DC45 Plus</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Время работы от аккумулятора 20 мин  Уборка сухая  Потребляемая мощность 350 Вт  Мощность всасывания 65 Вт  Пылесборник циклонный фильтр, емкостью 0.35 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000016" available="true">
+				<name>Dyson DC62 Animal Pro</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Время работы от аккумулятора 26 мин  Уборка сухая  Потребляемая мощность 350 Вт  Мощность всасывания 100 Вт  Пылесборник циклонный фильтр, емкостью 0.40 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000019" available="true">
+				<name>Dyson V6 Animal</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Время работы от аккумулятора 20 мин  Уборка сухая  Потребляемая мощность 350 Вт  Мощность всасывания 100 Вт  Пылесборник циклонный фильтр, емкостью 0.42 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000018" available="true">
+				<name>Dyson V6 Plus</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Время работы от аккумулятора 20 мин  Уборка сухая  Потребляемая мощность 350 Вт  Мощность всасывания 100 Вт  Пылесборник циклонный фильтр, емкостью 0.40 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000009" available="true">
+				<name>Bosch BCH 6ATH18</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип вертикальный  Время работы от аккумулятора 40 мин  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.90 л  Регулятор мощности на рукоятке (дистанционное управление)</description>
+			</offer>
+			<offer id="ФР-00000015" available="true">
+				<name>Bosch BGS 21830</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Мощность всасывания 300 Вт  Пылесборник циклонный фильтр, емкостью 1.40 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000012" available="true">
+				<name>Bosch BGS 32000</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник циклонный фильтр, емкостью 1.90 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000014" available="true">
+				<name>Bosch BGS 42230</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2200 Вт  Мощность всасывания 300 Вт  Пылесборник циклонный фильтр, емкостью 1.90 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000010" available="true">
+				<name>Bosch BGS 62530</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2500 Вт  Мощность всасывания 550 Вт  Пылесборник циклонный фильтр, емкостью 3 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000008" available="true">
+				<name>Bosch BSM 1805</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Мощность всасывания 300 Вт  Пылесборник мешок, емкостью 3 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000011" available="true">
+				<name>Bosch BSN 1701</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1700 Вт  Мощность всасывания 300 Вт  Пылесборник мешок, емкостью 3 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000013" available="true">
+				<name>Bosch BSN 2100</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2100 Вт  Мощность всасывания 330 Вт  Пылесборник мешок, емкостью 3 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000007" available="true">
+				<name>Bosch PAS 18 LI Set</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип ручной  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.65 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000026" available="true">
+				<name>Electrolux ERG105 Ergorapido</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип вертикальный  Время работы от аккумулятора 30 мин  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.50 л  Регулятор мощности на рукоятке (дистанционное управление)</description>
+			</offer>
+			<offer id="ФР-00000027" available="true">
+				<name>Electrolux CEORIGINDB</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2400 Вт  Мощность всасывания 350 Вт  Пылесборник мешок  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000028" available="true">
+				<name>Electrolux EEQ30X</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Мощность всасывания 326 Вт  Пылесборник мешок, емкостью 3 л  Регулятор мощности на корпусе</description>
+			</offer>
+			<offer id="ФР-00000023" available="true">
+				<name>Electrolux JMORIGIN</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Мощность всасывания 370 Вт  Пылесборник мешок, емкостью 1.60 л  Регулятор мощности на рукоятке (дистанционное управление)  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000024" available="true">
+				<name>Electrolux ZB 2943</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип вертикальный  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.50 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000025" available="true">
+				<name>Electrolux ZB 5003</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип ручной  Время работы от аккумулятора 10 мин  Уборка сухая  Мощность всасывания 8 Вт  Пылесборник циклонный фильтр, емкостью 0.50 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000022" available="true">
+				<name>Electrolux ZT 3550</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1500 Вт  Мощность всасывания 250 Вт  Пылесборник циклонный фильтр, емкостью 1.30 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000049" available="true">
+				<name>Miele SBAD0</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1400 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000053" available="true">
+				<name>Miele SDAB0</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Пылесборник мешок, емкостью 3.50 л  Регулятор мощности на корпусе</description>
+			</offer>
+			<offer id="ФР-00000050" available="true">
+				<name>Miele SGDA0</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000055" available="true">
+				<name>Miele SGDA0 Parquet</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000052" available="true">
+				<name>Miele SGEA0 Cat_and_Dog</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000054" available="true">
+				<name>Miele SGFA0 HEPA</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000051" available="true">
+				<name>Miele SGFA0 Special</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Пылесборник мешок, емкостью 4.50 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000057" available="true">
+				<name>Miele SJQL0 Scout RX1</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип робот  Таймер есть  Режимы движения общее число режимов: 4  Ограничитель зоны уборки магнитная лента  Режимы уборки местная уборка, быстрая уборка  Время работы от аккумулятора 120 мин  Уборка сухая  Пылесборник циклонный фильтр, емкостью 0.60 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000060" available="true">
+				<name>Philips FC 6141</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип ручной  Время работы от аккумулятора 11 мин  Уборка сухая  Потребляемая мощность 120 Вт  Мощность всасывания 22 Вт  Пылесборник циклонный фильтр, емкостью 0.50 л  Регулятор мощности нет</description>
+			</offer>
+			<offer id="ФР-00000058" available="true">
+				<name>Philips FC 8452</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 2000 Вт  Мощность всасывания 350 Вт  Пылесборник мешок, емкостью 3 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000062" available="true">
+				<name>Philips FC 8471</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1700 Вт  Мощность всасывания 330 Вт  Пылесборник циклонный фильтр, емкостью 1.50 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000061" available="true">
+				<name>Philips FC 8474</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Мощность всасывания 350 Вт  Пылесборник циклонный фильтр, емкостью 1.50 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000059" available="true">
+				<name>Philips FC 9713</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая  Потребляемая мощность 1800 Вт  Пылесборник циклонный фильтр, емкостью 3.50 л  Регулятор мощности нет  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000006" available="true">
+				<name>Zelmer ZVC752SP</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1600 Вт  Пылесборник аквафильтр  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000004" available="true">
+				<name>Zelmer ZVC762S</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1700 Вт  Пылесборник аквафильтр, емкостью 1.70 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000003" available="true">
+				<name>Zelmer ZVC762ST</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный   Уборка сухая / влажная  Потребляемая мощность 1700 Вт  Пылесборник аквафильтр, емкостью 1.70 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000005" available="true">
+				<name>Zelmer ZVC762ZK</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000001</categoryId>
+				<store>true</store>
+				<description>Тип обычный  Уборка сухая / влажная  Потребляемая мощность 1500 Вт  Пылесборник аквафильтр, емкостью 1.70 л  Регулятор мощности на корпусе  Фильтр тонкой очистки есть</description>
+			</offer>
+			<offer id="ФР-00000072" available="true">
+				<name>Насадка для пылесосов Electrolux</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000093" available="true">
+				<name>Промышленный пылесос Krausen Pro luxe</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description>Компактный промышленный пылесос Krausen Pro luxe в полной степени отвечает основным требованиям, которые предъявляются к данному типу оборудования. Такие модели сравнительно надежные, функциональные, просты в очистке и использовании. Пылесос оснащен достаточно мощным электрическим двигателем, который повышает эффективность очистки поверхности, даже если она сильно загрязнена. Также двигатель имеет двойную изоляцию и охлаждающую автоматическую систему, которые позволяют осуществлять уборку в помещении в течение длительного времени.</description>
+			</offer>
+			<offer id="25777" available="true">
+				<name>Объектив CANON (30%)</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000013</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="ФР-00000076" available="true">
+				<name>Фильтр "Premium" для пылесосов Karcher 2.863-161</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Фильтр "Premium" Karcher 2.863-161 подходит к любому хозяйственному пылесосу Karcher. Предназначен для очистки от крупного и мелкого мусора (например грилей, банных печей, каминов от оставшейся после использования золы). Входящий в состав фильтр тонкой очистки задерживает даже мельчайшие частицы. Будет очень полезен при проведении ремонтных работ. Весь мусор оседает в баке, который легко моется. Это значительно экономит время на уборку.  Параметры:  Объем бака - 20 литров; Длина шланга - 1 м.</description>
+			</offer>
+			<offer id="ФР-00000082" available="true">
+				<name>Фильтр для пылесосов Miele SF-AA30</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Фильтр выходного воздуха с активированным углем. Фильтрует мельчайшие частици пыли и нейтрализует неприятные запахи.</description>
+			</offer>
+			<offer id="ФР-00000078" available="true">
+				<name>Фильтр патронный Karcher</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Патронный фильтр с нанопокрытием для пылесосов WD. Долго остается чистым, обеспечивая сохранение полной силы всасывания. Обладает повышенной эффективностью фильтрации. Позволяет чередовать операции влажной и сухой уборки без замены фильтра.</description>
+			</offer>
+			<offer id="ФР-00000074" available="true">
+				<name>Мешки для пылесоса Electrolux UMP 1</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Комплектация  - 8 пылесборников   Подходит к пылесосам  - Electrolux: UltreOne Z 8810/P, 8815, 8820/P, 8821/P, 8822, 8825P, 8830/T, 8840, 8841/T, 8842, 8850, 8851, 8860/T, 8861/T, 8862T, 8870, 8871/P, 8872, 8880, 8881, 8882  - AEG: AEL 8815, 8820, 8840</description>
+			</offer>
+			<offer id="ФР-00000083" available="true">
+				<name>HEPA фильтр для пылесоса Miele SF-HA 50 AirClean</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="18968" available="true">
+				<name>Зеркальный фотоаппарат NIKON Df kit 50mm f/1.8 Special Edition silver (284_3) </name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000011</categoryId>
+				<store>true</store>
+				<description/>
+				<Brand>Nicon</Brand>
+				<TypeVid>Электронный</TypeVid>
+				<FormatMatrix>Full frame</FormatMatrix>
+				<TypeCam>Зеркальная</TypeCam>
+				<Vendor>Nicon</Vendor>
+			</offer>
+			<offer id="ФР-00000066" available="true">
+				<name>Bosch-41 фильтр Techno</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="25132" available="true">
+				<name>Зеркальный фотоаппарат CANON EOS 6D Kit EF 24-105/3,5-5,6 IS STM (11102_3) </name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000005</categoryId>
+				<store>true</store>
+				<description/>
+				<Vendor>Canon</Vendor>
+				<Brand>Canon</Brand>
+				<TypeCam>Зеркальная</TypeCam>
+				<TypeVid>Оптический</TypeVid>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="ФР-00000079" available="true">
+				<name>Турбощетка STB205-3</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Турбощетка для S 4000, S 5000, S 8000. Щадящая и основательная очистка практически всех покрытий пола благодаря подвижному щеточному валу; Улучшенная система захвата ворса и нитей; Система распределения воздуха для регулировки мощности всасывания. Страна-производитель: Германия. Обязательной сертификации не подлежит.</description>
+			</offer>
+			<offer id="ФР-00000096" available="true">
+				<name>Пылесос Starmix ISP iPulse ARM 1635 EW Permanent</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description>Промышленный пылесос предназначен для уборки промышленных помещений и для сбора мелкодисперсной пыли и воды.  Разработан специально для длительного (непрерывного) профессионального использования практически во всех существующих сферах применения. Уникальная функция электромагнитной импульсной виброочистки фильтров Permanent Clean (включается автоматически во время работы без потери силы всасывания!).</description>
+			</offer>
+			<offer id="ФР-00000069" available="true">
+				<name>Мешок-пылесборник Bosch BBZ 41FK</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Комплект (4 шт.) оригинальных мешков-пылесборников из синтетического микроволокна и предмоторного фильтра для пылесосов Bosch и Siemens</description>
+			</offer>
+			<offer id="ФР-00000106" available="true">
+				<name>Объектив NIKON 2</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000014</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="ФР-00000091" available="true">
+				<name>Пылесос сетевой MAKITA UВ 1101</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000092" available="true">
+				<name>Универсальный пылесос Bosch GAS 25 0.601.979.103</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description>Универсальный пылесос Bosch GAS 25 0.601.979.103 представляет собой универсальный пылесос профессионального класса мощностью 1200 Вт для удаления мокрой, сухой каменной, мелкой пыли и жидкости. Эффективен для работы без пыли при использовании бороздоделов, перфораторов, угловых шлифмашин Bosсh. Модель имеет полуавтоматическую систему очистки фильтра (SFC).</description>
+			</offer>
+			<offer id="ФР-00000090" available="true">
+				<name>Ранцевый пылесос KRAUSEN ECO</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000071" available="true">
+				<name>Пылесборники бумажные ELECTROLUX E200</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Комплектация - 5 пылесборников  Подходит к пылесосам - Electrolux: AirMax (ZAM 6100...6195), Bolibo (Z 4500...4595), Clario (Z 1900...2095, Z 7510...7549), Ergospace (ZE 2200...2299), Excellio (Z 5500...5295), Oxygen (Z 5500...5695, Z 5900...5995), SmartVac (Z 3300...3395)</description>
+			</offer>
+			<offer id="ФР-00000086" available="true">
+				<name>Сменные щетки для пылесоса Philips FC8054 </name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000077" available="true">
+				<name>Фильтр патронный Karcher</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Прочный плоский складчатый фильтр, обеспечивающий долгое сохранение высокой силы всасывания.</description>
+			</offer>
+			<offer id="ФР-00000070" available="true">
+				<name>Насадка для пылесоса Bosch BBZ 082 BD</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000085" available="true">
+				<name>Пылесборник Philips HR6947/01</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Оригинальные двухслойные мешки для сбора пыли Philips HR6947/01 вмещают больше и служат дольше. В комплект входит 4 мешка, микрофильтр AFS и фильтр для защиты мотора.</description>
+			</offer>
+			<offer id="ФР-00000088" available="true">
+				<name>Салфетка из микрофибры для роботов пылесосов LG</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Сменная салфетка для протирки пола для роботов пылесосов Roboking и Hom-Bot от корейского производителя LG</description>
+			</offer>
+			<offer id="ФР-00000080" available="true">
+				<name>Мешки-пылесборники Miele GN HyClean 3D Efficiency</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000087" available="true">
+				<name>Пылесборник Philips FC8650</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Набор аксессуаров для пылесосов Performer Active на год. В комплект входит: 6 мешков для сбора пыли s-bag Classic Long Performance, выходной фильтр HEPA 12 и фильтр для защиты мотора. Оригинальные аксессуары Philips • Мешок для сбора пыли s-bag Ultra Long Performance для идеальных результатов уборки • Фильтр HEPA 12 способен удерживать 99,5% частиц пыли</description>
+			</offer>
+			<offer id="ФР-00000075" available="true">
+				<name>Electrolux EFH13W Hepa</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Этот фильтр чрезвычайно эффективно задерживает различного рода аллергены и вредные частицы. Сочетание универсальных пылесборников s-bag™ и выпускного фильтра О2 НЕРА Н13 обеспечит высочайшее качество уборки. В те модели, которые при продаже комплектуются сменным микрофильтром можно также установить моющийся НЕРА Н13.</description>
+			</offer>
+			<offer id="ФР-00000102" available="true">
+				<name>Объектив (5%)</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000013</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="20324" available="true">
+				<name>ИнстаФото</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000008</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000094" available="true">
+				<name>Промышленный пылесос Krausen Eco Green</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000068" available="true">
+				<name>Мешки д/пылесоса Bosch GAS 50</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>5 штук в комплекте</description>
+			</offer>
+			<offer id="ФР-00000081" available="true">
+				<name>MIELE SMC 20 Комплект насадок MicroSet</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000073" available="true">
+				<name>Щетка для пылесосов Electrolux ZE 018</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Совместимость с моделями пылесосов: большинство моделей пылесосов Electrolux, Philips, Rowenta, VAX или любых других моделей пылесосов с диаметром трубок 32 мм Переходник для трубок диаметром 35 мм (Bosch, Siemens, Samsung, Karcher, Panasonic, LG, Thomas)</description>
+			</offer>
+			<offer id="ФР-00000067" available="true">
+				<name>Пылесборник Bosch BBZ123FGI </name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="955" available="true">
+				<name>Объектив NIKON 1</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000014</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="ФР-00000107" available="true">
+				<name>Объектив NIKON 3</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000014</categoryId>
+				<store>true</store>
+				<description/>
+				<FormatMatrix>Full frame</FormatMatrix>
+			</offer>
+			<offer id="ФР-00000095" available="true">
+				<name>Промышленный пылесос Krausen Pro</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000003</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+			<offer id="ФР-00000089" available="true">
+				<name>Мешки-пылесборники оригинальные синтетические (5 шт.) Euro Clean LG TB-33 E-07</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description>Мешки-пылесборники оригинальные синтетические (5 шт.) Euro Clean LG TB-33 E-07 предназначены для бытовых пылесосов CAMERON CVC 1060, CLATRONIC BS 1224, LG 4800 - 4899; 37000 -37900; 38000 - 38900; 39000 - 39900; 3C00 - 3C99; 3E00 - 3E99; 3G00 - 3G99; 5A00 - 5A99; FVD-3060; FVD-3708; VC 5281 ST; VC 5681 ST; VC30141; VC30251; VC-C382; VC-P663; VC-P963; VCQ 243; VCQ 263; Extron 3900-3999; Passion 3500 - 3599; Storm / Turbo 3300 - 3399; Turbo 2700; Turbo 2800; Turbo 2900; Turbo 3100 - 3199; Turbo 3200 - 3299; Turbo 3400 - 3499; Turbo Alfa 5500 - 5599; Turbo Beta 3A00 - 3A99; Turbo Delta 3B00 - 3B99; Turbo Plus 5900 - 5999; Turbo Storm 3700 - 3799; Turbo S 3800 - 3899; Turbo X 4500 - 4599; SCARLETT SC-289; Jordan SC-1087; Jason SC-289. Подходят для одноразового применения, что значительно сэкономит время на утилизацию мусора. Изготовлены из нетканого синтетического материала, способного удерживать даже самые мелкие частицы пыли. Обладают повышенной прочностью.</description>
+			</offer>
+			<offer id="ФР-00000084" available="true">
+				<name>Philips FC8018/01 пылесборник для FC8291/02 (5 шт.)</name>
+				<price/>
+				<currencyId>RUB</currencyId>
+				<categoryId>ФР-000002</categoryId>
+				<store>true</store>
+				<description/>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
